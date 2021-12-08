@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\obj\Debug\netcoreapp3.1\Day19_UserRegistration.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\obj\Debug\netcoreapp3.1\Day19_UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\obj\Debug\netcoreapp3.1\Day19_UserRegistration.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\obj\Debug\netcoreapp3.1\Day19_UserRegistration.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\obj\Debug\netcoreapp3.1\Day19_UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\bin\Debug\netcoreapp3.1\Day19_UserRegistration.exe
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\bin\Debug\netcoreapp3.1\Day19_UserRegistration.deps.json
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\bin\Debug\netcoreapp3.1\Day19_UserRegistration.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\bin\Debug\netcoreapp3.1\Day19_UserRegistration.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\bin\Debug\netcoreapp3.1\Day19_UserRegistration.dll
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\bin\Debug\netcoreapp3.1\Day19_UserRegistration.pdb
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\obj\Debug\netcoreapp3.1\Day19_UserRegistration.dll
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\obj\Debug\netcoreapp3.1\Day19_UserRegistration.pdb
+C:\Users\Raj Nani\source\repos\Day_19\Day19_UserRegistration\Day19_UserRegistration\obj\Debug\netcoreapp3.1\Day19_UserRegistration.genruntimeconfig.cache
